@@ -1,3 +1,13 @@
+## Goal of fork
+Adding math symbols
+
+## Progress
+Turns out adding this manually is dull. I've added a very small subset of https://www.unicode.org/charts/PDF/U2200.pdf
+I plan to finish it up but I got the symbols I needed right now added. Might try to find a place to pull them from
+automatically as the original code does.
+
+# Orignal read me below
+
 # Rofi emoji plugin
 
 An emoji selector plugin for Rofi that copies the selected emoji to the

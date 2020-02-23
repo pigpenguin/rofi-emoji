@@ -1,4 +1,35 @@
 ∀	Math	logic	for all	for all | for every
+∁	Math	logic	complement	complement
+∂	Math	calculus	partial differential	partial | partial derivative
+∃	Math	logic	there exists	there exists | exists | existential quantifier
+∄	Math	logic	there exists	there exists | exists | existential quantifier
+∅	Math	logic	empty set	empty set | nothing
+∆	Math	calculus	increment	increment | laplace operator | forward difference | symmetric difference
+∇	Math	calculus	nabla	nabla | backwards difference | gradient | del
+∈	Math	Set membership	element of	element of | in
+∉	Math	Set membership	not an element of	not an element of | not in
+∊	Math	Set membership	small element of	smalle element of
+∋	Math	Set membership	contains as a member	contains as a member | contains
+∌	Math	Set membership	does not contain as a member	does not contain as a member | not contains
+∍	Math	Set membership	small contains as member	small contains as member
+∎	Math	Miscellaneous mathematical symbol	end of proof	end of proof | qed
+∏	Math	N-ary operators	N-ary Product	N-ary product | product
+∐	Math	N-ary operators	N-ary Coproduct	N-ary coproduct | coproduct
+∑	Math	N-ary operators	N-ary Summation	N-ary summation | sum | summation
+≃	Math	Relations	Asymptotically Equal To	Asymptotically Equal To
+≄	Math	Relations	Not Asymptotically Equal To	Not Asymptotically Equal To
+≅	Math	Relations	Approximately Equal To	Approximately Equal To
+≆	Math	Relations	Approximately But Not Actually Equal To	Approximately But Not Actually Equal To
+≇	Math	Relations	Niether Approximately Nor Actually Equal To	Niether Approximately Nor Actually Equal To
+≈	Math	Relations	Almost Equal To	Almost Equal To | Approximately | Approx
+≉	Math	Relations	Not Almost Equal To	Not Almost Equal To | Not Approximately | Not Approx
+≊	Math	Relations	Almost Equal Or Equal To	Almost Equal Or Equal To
+≋	Math	Relations	Triple Tilde	Triple Tilde
+≌	Math	Relations	All Equal To	All Equal To
+≲	Math	Relations	Less Than Or Equivalent To	Less Than Or Equivalent To | Almost Less Than
+≳	Math	Relations	Greater Than Or Equivalent To	Greater Than Or Equivalent To | Almost Greater Than
+≴	Math	Relations	Neither Less Than Or Equivalent To	Neither Less Than Or Equivalent To
+≵	Math	Relations	Neither Greater Than Or Equivalent To	Neither Greater Than Or Equivalent To
 😀	Smileys & Emotion	face-smiling	grinning face	face | grin | grinning face
 😃	Smileys & Emotion	face-smiling	grinning face with big eyes	face | grinning face with big eyes | mouth | open | smile
 😄	Smileys & Emotion	face-smiling	grinning face with smiling eyes	eye | face | grinning face with smiling eyes | mouth | open | smile
